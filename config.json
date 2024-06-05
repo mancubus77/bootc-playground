@@ -1,0 +1,16 @@
+{
+ "blueprint": {
+   "customizations": {
+     "user": [
+       {
+         "name": "cloud-user",
+         "password": "changeme",
+         "key": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC0Uj2uzytzn3U4O6OitpfOlkSqPZKM91nElRo3vFEq8mxH10Wn0oL1uqRp54bo/INF9Z9I9oDl7keVw9fHr6mxmpBGPLyXb9Pyk5gwtrYZWt8SGIkjBNKNi4lwAnncWycbp01VEEWI9kWApn9gD4Lij1ZBwu1I4XlxZSg3cGJQLzu/8u/nOOTv+0QB8dQ+68DFSIZbTgtca7b9Wq4riT/5o6Uw8G2GbKx9YuDkoZBV170EqLjc1InTswrjXRtN7p41YGsPVRmU0weV30HAu7fjm/sLVb3PYiR5j+Gs4KuAsNjBtwlBD5y4tZJCzlrr0OCSIEk6W/64d/uq4bL4he8RMocymWP2sLtKpfKUWd90KIhl9Y++EVcSXXb4Sn6bVzbOHZmAH5uh7qaBz+ZNQ1etA6RppGSbwzZXOFU/Qn1Rtc306oIStbE5xoQprgkjyT5Q96Wot0wCmoIa8Qw1UrCBjDJ2x/7qqQrFb6wZ4fgB5fhenMy2aY+l8lsCtaULnPM= fedora@llama-ai",
+         "groups": [
+           "wheel"
+         ]
+       }
+     ]
+   }
+ }
+}
